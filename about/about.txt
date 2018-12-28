@@ -10,3 +10,5 @@ All about dogs
 	<url>http://hmkcode.com/castor-java-object-xml</url>
 	<title>Castor - Java Object to XML &amp; XML to Object Mapping</title>
 </article>
+
+<end> </end>
